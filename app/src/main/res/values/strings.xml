@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Karangklesem Carwash</string>
+    <string name="text_header_name">Hello Doanta!</string>
+    <string name="text_header_greeting">Nice to see you</string>
+    <string name="text_banner_description">Wash everywhere, anytime with our subscription only for IDR 49.000/Month</string>
+    <string name="text_banner_click_more">Click for more detail</string>
+    <string name="text_your_balance">Your Balance</string>
+    <string name="text_user_balance">Rp. 800.000</string>
+    <string name="text_top_up">Top Up</string>
+    <string name="text_top_up_via">via BCA</string>
+    <string name="text_menu_1" translatable="false">Sedan</string>
+    <string name="text_menu_2" translatable="false">SUV</string>
+    <string name="text_menu_3" translatable="false">Jeep</string>
+    <string name="text_menu_4" translatable="false">Bus</string>
+    <string name="text_menu_5" translatable="false">Truck</string>
+    <string name="text_menu_6" translatable="false">Motorcycle</string>
+    <string name="text_menu_7" translatable="false">Super Motorcycle</string>
+</resources>
